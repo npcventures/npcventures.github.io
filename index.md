@@ -1,6 +1,6 @@
 # NPC Ventures
 
-FOR IMMEDIATE RELEASE
+### FOR IMMEDIATE RELEASE
 
 NPC Ventures Invests in the American Citizens Party
 
@@ -25,7 +25,8 @@ voters. This is just the first step in our commitment to investing in
 innovative technology and we look forward to seeing what amazing things the
 future holds.”
 
-About NPC Ventures
+#### About NPC Ventures
+
 NPC Ventures is a venture capital firm focused on investing in early-stage
 companies at the forefront of technology. With a team of experienced investors
 and a network of strategic partners, NPC Ventures helps startups bring their
